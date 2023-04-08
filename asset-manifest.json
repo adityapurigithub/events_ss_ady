@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1422a4bf.css",
+    "main.js": "/static/js/main.dab57a08.js",
+    "static/media/conf.jpg": "/static/media/conf.c5de0ffb3f599fcdf7f7.jpg",
+    "static/media/bharatClaimsLogo.png": "/static/media/bharatClaimsLogo.fa6d1060998409506fde.png",
+    "static/media/about.png": "/static/media/about.765c5a153b7a9410ea86.png",
+    "static/media/landingPageImage.jpg": "/static/media/landingPageImage.e2aa3220f1fee6ccbbf6.jpg",
+    "static/media/checkout.jpg": "/static/media/checkout.5a3466255915a9af4a70.jpg",
+    "static/media/kpoOwner.JPG": "/static/media/kpoOwner.5ad78a9bd9f0dc548357.JPG",
+    "static/media/loanInTouchOwner.jpg": "/static/media/loanInTouchOwner.6336b3f8c62ceec98268.jpg",
+    "static/media/appsealingOwner.jpg": "/static/media/appsealingOwner.ec7826a8d5733bd68e2e.jpg",
+    "static/media/dogTail.jpg": "/static/media/dogTail.5f111d721d4bfd549d43.jpg",
+    "static/media/logo2.png": "/static/media/logo2.4c801816ac41bda48113.png",
+    "static/media/Guest4.jpg": "/static/media/Guest4.0ba64650586b247103af.jpg",
+    "static/media/faadOwner.jpg": "/static/media/faadOwner.29702ba4a5b931d1e141.jpg",
+    "static/media/Guest9.jpg": "/static/media/Guest9.c98d312c94e29749bb77.jpg",
+    "static/media/Guest5.jpg": "/static/media/Guest5.f260befcb64aed14d6a3.jpg",
+    "static/media/bookMyJetOwner.jpg": "/static/media/bookMyJetOwner.32aefd57518e04085c34.jpg",
+    "static/media/Guest1.jpg": "/static/media/Guest1.4168c0a9d8e69311e464.jpg",
+    "static/media/Guest7.jpg": "/static/media/Guest7.019955051c71a5aa483d.jpg",
+    "static/media/Guest6.jpg": "/static/media/Guest6.8d02828d2c567ef6db13.jpg",
+    "static/media/Guest3.jpg": "/static/media/Guest3.e90681a7c1b66ca08155.jpg",
+    "static/media/Guest2.jpg": "/static/media/Guest2.d56bef3bef5d7f6adf57.jpg",
+    "static/media/Guest8.jpg": "/static/media/Guest8.fa431e89a7856cd4e028.jpg",
+    "static/media/appsealingLogo.png": "/static/media/appsealingLogo.cff92690bd8a9ef7d9d2.png",
+    "static/media/bookMyJetLogo2.png": "/static/media/bookMyJetLogo2.03716389a9ff2026db41.png",
+    "static/media/bharatClaimsOwner.JPG": "/static/media/bharatClaimsOwner.8199972fc9683ae5e0bb.JPG",
+    "static/media/dogtailLogo.png": "/static/media/dogtailLogo.d41bb746f821c7a6afef.png",
+    "static/media/faadLogo.png": "/static/media/faadLogo.4a47ff2f3f640bae2f13.png",
+    "static/media/loanInTouchLogo2.png": "/static/media/loanInTouchLogo2.25f12f8147e827d6c5d3.png",
+    "static/media/kpoLogo.png": "/static/media/kpoLogo.b9b7625fe7087b9d8ad7.png",
+    "static/media/meteorVentureLogo.png": "/static/media/meteorVentureLogo.6051660cd27082faee2f.png",
+    "index.html": "/index.html",
+    "main.1422a4bf.css.map": "/static/css/main.1422a4bf.css.map",
+    "main.dab57a08.js.map": "/static/js/main.dab57a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1422a4bf.css",
+    "static/js/main.dab57a08.js"
+  ]
+}
