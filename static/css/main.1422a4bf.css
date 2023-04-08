@@ -124,7 +124,7 @@ input::placeholder {
 }
 .Jumbotron_jumbotron__CsCrt {
   align-items: center;
-  background-image: url("/static/media/landingPageImage.e2aa3220f1fee6ccbbf6.jpg");
+  background-image: url(/static/media/landingPageImage.e2aa3220f1fee6ccbbf6.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -238,7 +238,6 @@ a {
   display: block;
   height: 100%;
   width: 100%;
-  /*  */
   filter: grayscale(100%);
 }
 .SingleKeynoteSpeaker_featured__img__fzF7h:hover:before {
@@ -281,6 +280,7 @@ a {
   transition: all 0.2s;
   transition: 0.5s ease;
   width: 100%;
+  z-index: 1;
 }
 .SingleKeynoteSpeaker_cover__yG95r:hover {
   opacity: 0.85;
